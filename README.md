@@ -9,8 +9,7 @@ Welcome to V.I Memories Photography! This is a client's photography page that sh
 3. [Services](#services)
 4. [Contact Information](#contact)
 5. [How to Navigate the Site](#navigation)
-6. [Feedback and Collaboration](#feedback)
-7. [License and Usage](#license)
+6. [License and Usage](#license)
 
 ## About V.I Memories<a name="about"></a>
 
